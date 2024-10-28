@@ -3,7 +3,7 @@
     "path": "~/olvidemilap/Proyecto_Final_Bioinfo/Proyecto_final_bioinformatica/prueba Script.R",
     "project_path": "prueba Script.R",
     "type": "r_source",
-    "hash": "276713683",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1730154578159.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,39",
+        "cursorPosition": "2,7",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730154613,
+    "lastKnownWriteTime": 1730154680,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730154613878,
+    "last_content_update": 1730154680,
     "read_only": false,
     "read_only_alternatives": []
 }
